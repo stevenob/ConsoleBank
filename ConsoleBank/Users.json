@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "first_name": "Emma",
+    "last_name": "Smith",
+    "username": "ESmith",
+    "email": "ESmith@bigbank.com"
+  },
+  {
+    "id": 2,
+    "first_name": "Oliver",
+    "last_name": "Johnson",
+    "username": "OJohnson",
+    "email": "OJohnson@bigbank.com"
+  },
+  {
+    "id": 3,
+    "first_name": "Ava",
+    "last_name": "Williams",
+    "username": "AWilliams",
+    "email": "AWilliams@bigbank.com"
+  },
+  {
+    "id": 4,
+    "first_name": "Ethan",
+    "last_name": "Jones",
+    "username": "EJones",
+    "email": "EJones@bigbank.com"
+  },
+  {
+    "id": 5,
+    "first_name": "Sophia",
+    "last_name": "Brown",
+    "username": "SBrown",
+    "email": "SBrown@bigbank.com"
+  },
+  {
+    "id": 6,
+    "first_name": "Noah",
+    "last_name": "Davis",
+    "username": "NDavis",
+    "email": "NDavis@bigbank.com"
+  },
+  {
+    "id": 7,
+    "first_name": "Charlotte",
+    "last_name": "Miller",
+    "username": "CMiller",
+    "email": "CMiller@bigbank.com"
+  },
+  {
+    "id": 8,
+    "first_name": "Liam",
+    "last_name": "Garcia",
+    "username": "LGarcia",
+    "email": "LGarcia@bigbank.com"
+  },
+  {
+    "id": 9,
+    "first_name": "Amelia",
+    "last_name": "Wilson",
+    "username": "AWilson",
+    "email": "AWilson@bigbank.com"
+  },
+  {
+    "id": 10,
+    "first_name": "William",
+    "last_name": "Taylor",
+    "username": "WTaylor",
+    "email": "WTaylor@bigbank.com"
+  }
+]

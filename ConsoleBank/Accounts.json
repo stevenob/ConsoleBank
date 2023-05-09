@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "AccountName": "ESmiths Checking Account",
+    "Balance": 1449.20,
+    "Username": "ESmith"
+  },
+  {
+    "Id": 2,
+    "AccountName": "OJohnsons Checking Account",
+    "Balance": 3228.40,
+    "Username": "OJohnson"
+  },
+  {
+    "Id": 3,
+    "AccountName": "AWilliamss Checking Account",
+    "Balance": 3884.63,
+    "Username": "AWilliams"
+  },
+  {
+    "Id": 4,
+    "AccountName": "EJoness Checking Account",
+    "Balance": 82.47,
+    "Username": "EJones"
+  },
+  {
+    "Id": 5,
+    "AccountName": "SBrowns Checking Account",
+    "Balance": 2068.80,
+    "Username": "SBrown"
+  },
+  {
+    "Id": 6,
+    "AccountName": "NDaviss Checking Account",
+    "Balance": 4169.84,
+    "Username": "NDavis"
+  },
+  {
+    "Id": 7,
+    "AccountName": "CMillers Checking Account",
+    "Balance": 1455.55,
+    "Username": "CMiller"
+  },
+  {
+    "Id": 8,
+    "AccountName": "LGarcias Checking Account",
+    "Balance": 376.53,
+    "Username": "LGarcia"
+  },
+  {
+    "Id": 9,
+    "AccountName": "AWilsons Checking Account",
+    "Balance": 2053.16,
+    "Username": "AWilson"
+  },
+  {
+    "Id": 10,
+    "AccountName": "WTaylors Checking Account",
+    "Balance": 4178.24,
+    "Username": "WTaylor"
+  }
+]
